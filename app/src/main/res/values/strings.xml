@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Momentastik</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Bienvenido a Momentastik!</string>
+    <string name="slide_1_desc">Un lugar donde encontrar lugares y eventos de interes</string>
+
+    <string name="slide_2_title">Eventos</string>
+    <string name="slide_2_desc">Encuentra eventos cercanos para pasar el día!</string>
+
+    <string name="slide_3_title">Lugares</string>
+    <string name="slide_3_desc">Disfruta de tu ciudad descubriendo nuevos lugares</string>
+
+    <string name="slide_4_title">Iniciar sesión</string>
+    <string name="slide_4_desc">Inicia sesión en...</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
